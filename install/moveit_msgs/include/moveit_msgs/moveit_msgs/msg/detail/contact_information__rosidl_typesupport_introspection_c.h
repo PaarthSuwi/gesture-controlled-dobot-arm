@@ -1,0 +1,1 @@
+/home/suwi/ros2_4dof_arm/build/moveit_msgs/rosidl_typesupport_introspection_c/moveit_msgs/msg/detail/contact_information__rosidl_typesupport_introspection_c.h

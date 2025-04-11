@@ -1,0 +1,1 @@
+/home/suwi/ros2_4dof_arm/build/moveit_msgs/rosidl_generator_c/moveit_msgs/msg/detail/display_robot_state__type_support.h

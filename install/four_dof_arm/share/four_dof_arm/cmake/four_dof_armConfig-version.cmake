@@ -1,0 +1,1 @@
+/home/suwi/ros2_4dof_arm/build/four_dof_arm/ament_cmake_core/four_dof_armConfig-version.cmake

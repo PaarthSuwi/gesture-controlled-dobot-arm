@@ -1,0 +1,1 @@
+/home/suwi/ros2_4dof_arm/build/moveit_msgs/rosidl_typesupport_fastrtps_c/moveit_msgs/msg/detail/collision_object__rosidl_typesupport_fastrtps_c.h

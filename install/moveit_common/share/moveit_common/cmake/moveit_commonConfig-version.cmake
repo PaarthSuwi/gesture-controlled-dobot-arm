@@ -1,0 +1,1 @@
+/home/suwi/ros2_4dof_arm/build/moveit_common/ament_cmake_core/moveit_commonConfig-version.cmake

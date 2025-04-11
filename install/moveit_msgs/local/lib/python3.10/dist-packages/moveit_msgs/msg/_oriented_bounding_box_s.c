@@ -1,0 +1,1 @@
+/home/suwi/ros2_4dof_arm/build/moveit_msgs/rosidl_generator_py/moveit_msgs/msg/_oriented_bounding_box_s.c

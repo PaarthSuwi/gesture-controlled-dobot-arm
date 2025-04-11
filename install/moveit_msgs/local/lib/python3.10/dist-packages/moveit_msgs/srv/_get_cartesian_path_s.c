@@ -1,0 +1,1 @@
+/home/suwi/ros2_4dof_arm/build/moveit_msgs/rosidl_generator_py/moveit_msgs/srv/_get_cartesian_path_s.c
